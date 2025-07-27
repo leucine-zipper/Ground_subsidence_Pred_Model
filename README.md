@@ -1,2 +1,2 @@
 # Ground_subsidence_Pred_Model
-DScover_학회
+DScover_G조 Main project
